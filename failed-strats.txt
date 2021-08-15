@@ -1,0 +1,9 @@
+* charge everyone up, make a big boi
+* pump the outpost early
+* charge line + defense
+* charge line mid star with outpost help
+
+new ideas:
+* make a good attack algo
+* try different shape (?!?!?)
+* some mix of outpost + charge line to mid * + attack algos
